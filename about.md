@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi there! My name is Aayush.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This is where I write weekly blogs about my IT lessons.
 
 ### Contact me
 
